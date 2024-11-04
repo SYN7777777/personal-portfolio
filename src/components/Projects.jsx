@@ -13,21 +13,21 @@ const Projects = () => {
       description:
         'Responsive website built with React and Tailwind CSS to showcase architectural projects, with smooth animations and a user-friendly interface.',
       icon: <FaPencilRuler className="text-indigo-500 text-4xl mb-4" />,
-      link: 'https://github.com/yourusername/architect-firm-website',
+      link: 'https://github.com/SYN7777777',
     },
     {
       title: 'E-commerce Website',
       description:
         'A dynamic e-commerce platform with product catalog, cart functionality, and filter options. Designed for a clean and seamless shopping experience.',
       icon: <FaShoppingCart className="text-green-500 text-4xl mb-4" />,
-      link: 'https://github.com/yourusername/e-commerce-website',
+      link: 'https://github.com/SYN7777777',
     },
     {
       title: 'Chat App',
       description:
         'Real-time chat application with messaging and user authentication with JWT authorization, offering an interactive UI and responsive design.',
       icon: <FaComments className="text-blue-500 text-4xl mb-4" />,
-      link: 'https://github.com/yourusername/chat-app',
+      link: 'https://github.com/SYN7777777',
     },
   ];
 
